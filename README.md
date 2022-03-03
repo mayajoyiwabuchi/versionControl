@@ -19,6 +19,9 @@ If you have any questions, please ask us!
 4. Type your name into the textbox and hit "enter"
 5. You did it, now try the second code box In[2]
 
+## License Information 
+This code file is licensed under the GNU general public license. We care about the sharing of code, and encourage community interaction with it. We kindly ask that you distribute altered copies. 
+
 ## We'd love your advice. Here is how you can you help!
 The developers of this code and repo are all Pitt students! 
 You can reach us via Pitt email at: 
